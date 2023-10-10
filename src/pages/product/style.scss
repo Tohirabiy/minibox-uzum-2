@@ -1,0 +1,123 @@
+.moma {
+    display: inline-flex;
+    padding: 12px 2px;
+    justify-content: center;
+    align-items: center;
+    border-radius: 4px;
+    border: 1px solid rgba(0, 0, 0, 0.12);
+    background: #fff;
+}
+.sotuv {
+    color: #00c853;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+}
+.narxi {
+    color: #212121;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px; /* 140% */
+}
+.eski_narxi {
+    color: #8a8d93;
+
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px; /* 171.429% */
+  
+}
+
+.katta-sotuv{
+    display: flex;
+padding: 0px 5.16px 0px 6px;
+align-items: flex-start;
+border-radius: 4px;
+background: #AF7;
+}
+.njnj{
+    color: #000;
+
+font-size: 13px;
+font-style: normal;
+font-weight: 500;
+line-height: 21px; /* 161.538% */
+}
+.oyiga{
+    display: flex;
+padding: 12px 8px 12px 12px;
+align-items: center;
+gap: 303.02px;
+border-radius: 12px;
+background: #F5F6FA;
+}
+.meses{
+    color: #1F1F26;
+font-size: 14px;
+font-style: normal;
+font-weight: 600;
+line-height: 18px; /* 128.571% */
+}
+.ronal{
+    border-radius: 8px;
+background: #FF0;
+}
+.muddat{
+    color: #000;
+font-size: 14px;
+font-style: normal;
+font-weight: 500;
+line-height: 18px; /* 128.571% */
+}
+.btn_bir{
+    display: flex;
+width: 298.8px;
+height: 56px;
+padding: 18px 82.57px 18px 82.76px;
+justify-content: center;
+align-items: center;
+border-radius: 12px;
+background: #7000FF;
+color: #FFF;
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px; /* 125% */
+letter-spacing: 0.064px;
+}
+.btn_ikki{
+    display: flex;
+width: 298.8px;
+height: 56px;
+padding: 18px 27.86px 18px 28.07px;
+justify-content: center;
+align-items: center;
+border-radius: 12px;
+background: rgba(255, 255, 255, 0.00);
+color: #7000FF;
+text-align: center;
+font-size: 16px;
+font-style: normal;
+font-weight: 600;
+line-height: 20px; /* 125% */
+letter-spacing: 0.064px;
+box-shadow: 0px 0px 0px 1px #7000FF inset;
+}
+.haftada{
+    display: flex;
+// padding: 0px 248.64px 0px 32px;
+align-items: flex-start;
+border-radius: 8px;
+background: rgba(255, 228, 51, 0.30);
+}
+.kishi{
+    color: #141415;
+font-size: 14px;
+font-style: normal;
+font-weight: 400;
+line-height: 16px; /* 114.286% */
+}
